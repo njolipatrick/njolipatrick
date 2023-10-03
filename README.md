@@ -6,7 +6,7 @@ I'm Njoli Patrick😉, Software Engineer 👨🏻‍💻 from Nigeria.
 
 ### How to reach me: 
 <a href="mailto: ogmaro@gmail.com">
-<img src="https://img.shields.io/badge/-ogmaro%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/njolipatrick/"><img src="https://img.shields.io/badge/Patrick&nbsp;Timothy&nbsp;Njoli-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.twitter.com/njolipatrick"><img src="https://img.shields.io/badge/__ogmaro-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-ogmaro%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/njolipatrick/"><img src="https://img.shields.io/badge/Patrick&nbsp;Timothy&nbsp;Njoli-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.twitter.com/njolipatrick"><img src="https://img.shields.io/badge/njolipatrick-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <!--
 ### Current Status Quo:
 
