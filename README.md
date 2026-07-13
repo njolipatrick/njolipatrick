@@ -2,7 +2,7 @@
 
 I'm Njoli Patrick😉, Software Engineer 👨🏻‍💻 from Nigeria. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant;Backend+Engineer+with+5%2B+Years+Experience;Passionate+about+Problem+Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant;Backend+Engineer+with+6%2B+Years+Experience;Passionate+about+Problem+Solving)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: ogmaro@gmail.com">
